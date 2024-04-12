@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Screen Rotate
+Exec=$HOME/.local/share/steamdeck-screen-rotate/screen-rotate.sh
+Terminal=false
+Icon=icon-screen-rotate
+Categories=System;
